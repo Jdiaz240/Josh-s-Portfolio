@@ -1,36 +1,65 @@
-* {
+/* * {
     background-color: #9AD0EC;
+} */
 
+body {
+    background-color: lightblue;
 }
 
 header {
     padding: 20px;
     color: white;
-    Border: 2px;
+    /* Border: 2px;
     border-style: solid;
-    border-color: black;
-    background-color: #D8E3E7;
+    border-color: black; */
+    background-color: rgb(85, 85, 85);
+    
 }
 
 header h1 {
     display: inline-block;
-    background-color: #D8E3E7;
+    background-color:rgb(85, 85, 85);
+    text-decoration: underline;
 }
 
 header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    background-color: #D8E3E7;
+    background-color:rgb(85, 85, 85);
 
 }
 
 header nav ul li {
    display: inline-block;
-   background-color: #D8E3E7;
+   background-color: rgb(85, 85, 85);
+   list-style: none;
 }
 
-section {
+.main-image {
+    
+}
+
+/*section {
     background-color: #D8E3E7;
     border: 2px solid black;
+    padding: 10px;
+    color: white;
+}
+
+section h3 {
+    background-color: #D8E3E7;
+}
+
+section ul li {
+    background-color: #D8E3E7;
+    display: inline-block;
+}*/
+
+#biography h3 {
+    background-color: lightgrey;
+    width: 300px;
+    border: 20px black solid;
+    padding: 50px;
+    margin: 20px;
 }
