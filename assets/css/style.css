@@ -1,0 +1,23 @@
+* {
+    background-color: #9AD0EC;
+
+}
+
+header {
+    padding: 20px;
+    color: white;
+}
+
+header h1 {
+    display: inline-block;
+}
+
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+}
+
+header nav ul li {
+   display: inline-block;
+}
