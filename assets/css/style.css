@@ -29,9 +29,10 @@ header nav ul li {
 
 }
 
-header img {
+#big-pic {
     height: 600px;
     width: 100%;
+    
 }
 
 header a {
@@ -54,6 +55,20 @@ aside h3 {
 
 article p { 
     padding: 70px 30px 70px 30px;
+}
+
+.first {
+    border: 5px black solid;
+    padding: 200px 350px;
+    margin: 20px;
+}
+
+.others {
+    display: inline-block;
+    flex-wrap:wrap;
+    border: 5px black solid;
+    padding: 50px 100px;
+    margin: 20px;
 }
 
 footer {
