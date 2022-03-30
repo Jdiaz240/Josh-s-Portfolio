@@ -62,7 +62,7 @@ article p {
 
 .first {
     position: relative;
-    margin: 20px 40px;
+    margin: 20px 60px 20px 1px;
     padding: 30px;
     
 }
@@ -84,7 +84,6 @@ article p {
 .others {
     display: inline-block;
     flex-wrap:wrap;
-    /* border: 5px black solid; */
     margin: 20px 0px 20px 3%;
     height: 150px;
     width: 350px;
@@ -104,13 +103,11 @@ article p {
     color: white;
     font-size: xx-large;
     border: 1px white solid;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 footer {
     padding: 30px;
     clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
